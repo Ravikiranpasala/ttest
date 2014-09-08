@@ -118,6 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <metadata name="RosettaVersion" type="System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>635454953118506044</value>
+    <value>635454954490090275</value>
   </metadata>
+  <data name="Caption04" xml:space="preserve">
+    <value>Value04</value>
+  </data>
+  <data name="Caption05" xml:space="preserve">
+    <value>Value05</value>
+  </data>
+  <data name="Caption06" xml:space="preserve">
+    <value>Value06</value>
+  </data>
+  <data name="Caption07" xml:space="preserve">
+    <value>Text07</value>
+  </data>
+  <data name="Caption02" xml:space="preserve">
+    <value>Value02</value>
+  </data>
+  <data name="Caption01" xml:space="preserve">
+    <value>Value01</value>
+  </data>
+  <data name="Caption03" xml:space="preserve">
+    <value>Value03</value>
+  </data>
 </root>
